@@ -1,0 +1,5 @@
+about-gpu-2025-09-16T16-48-39-901Z.txt
+runs/*
+dataset/images/*
+dataset/labels/*
+dataset/dataset.yaml
